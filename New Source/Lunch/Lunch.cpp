@@ -5,6 +5,21 @@
 using namespace std;
 
 
+int menu()// Section done by James
+{
+    string menuItems[10]{ "Shepherds Pie", "Mashed Potato & Cheese", "Fresh Fruit", "Loaded Wedges", "Veggie Burger", "Vegetarian Curry", "Beef Nachos with Cheese", "Sweet Slice", "Butter Chicken with Basmati Rice", "Ice cream sunday" };
+
+    cout << "\n\n==================" << "\n\nLUNCH ORDER MENU" << "\n\n==================";
+
+    
+
+    return 0;
+}
+// Section ends...
+
+
+
+
 int main()
 {
     //clear
@@ -40,7 +55,7 @@ int main()
         clr.open("user_data.txt", std::ofstream::out | std::ofstream::trunc);
         clr.close();
     }
-    
+
     //return
     return 0;
 }
