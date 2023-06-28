@@ -1178,6 +1178,7 @@ void priceEditor(int a, int b)
 
 void showOrders()
 {
+    system("CLS");
     int a = 0;
     string data,build;
     string LIST[50];
