@@ -1,0 +1,4 @@
+[Lamb_Shepherds_Pie_with_Mashed_Potato_&_Cheese{12.99}[Veggie_Pie_with_Mashed_Potato_&_Cheese_(v){13.98}[Meat_Lovers_Pizza_with_BBQ_Sauce{7.98}[Vegetarian_Pizza_with_BBQ_Sauce(v){8.99}
+[Loaded_Wedges_with_Beef,_Cheese_&_Sour_Cream{10.99}[Loaded_Wedges_with_Falafel_&_Cheese(v){11.99}[Cheesy_Tomato_Penne_Pasta_With_Chorizo{14.99}[Cheesy_Tomato_Penne_Pasta(v){11.99}
+[Beef_Burger_With_Cheese{9.98}[Veggie_Burger_With_Cheese_(v){9.50}[Butter_Chicken_With_Basmati_Rice{14.50}[Vegeterian_Sagwalaa_With_Basmati_Rice{12.50}
+[Lunch_Box_with_Chicken_Tenders,_Potato_Chips,_Carrot_Sticks,_Grapes_&_a_Muffin{17.79}[Lunch_Box_with_Falafel_Wrap,_Potato_Chips,_Carrot_Sticks,_Grapes_&_a_Muffin{18.90}[Beef_Nachos_with_Cheese,_Sour_Cream_&_Corn_Chips{10.99}[Nacho_Beans_with_Cheese,_Sour_Cream_&_Corn_Chips{9.50}
